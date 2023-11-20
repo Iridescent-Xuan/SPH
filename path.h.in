@@ -1,0 +1,1 @@
+#define PORJECT_MODEL_PATH "@CMAKE_SOURCE_DIR@/model/"
